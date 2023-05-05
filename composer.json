@@ -1,0 +1,17 @@
+{
+    "name": "espresso/espressoapi",
+    
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Espresso\\Espressoapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Espresso"
+        }
+    ],
+    "require": {}
+}
